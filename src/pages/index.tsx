@@ -19,11 +19,11 @@ export default function Home() {
         <Container h='full'>
           <Flex align='center' justify='space-between' h='full'>
             <Flex direction='column' gap='1.5rem'>
-              <Heading color='white'>
-                5 Continents <br/> infinite possibilities.
+              <Heading>
+                5 Continents, <br/> infinite possibilities.
               </Heading>
-              <Text color='white'>
-                It's finally time to get off the drawing board that <br/> trip you've been dreamming about.
+              <Text>
+                It&apos;s finally time to get off the drawing board that <br/> trip you&apos;ve been dreamming about.
               </Text>
             </Flex>
             <Box pt={36}>
